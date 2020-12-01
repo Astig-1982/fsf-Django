@@ -27,7 +27,7 @@ SECRET_KEY = '_v*#$8muem_erwj@e1(fwf#!&f_8d=b2))&cpf=*yo)==icx$r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ham82-django-todo-app.herokuapp.com']
 
 
 # Application definition
